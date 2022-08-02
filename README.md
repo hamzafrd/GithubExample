@@ -8,3 +8,4 @@ Repository ini digunakan sebagai **contoh** sayembara pencarian volunter untuk p
 
 Berikut daftar Volunter yang diterima:
 * Hamza Firdaus, [spnj-web.hamzafrd.repl.co](https://spnj-web.hamzafrd.repl.co/).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
